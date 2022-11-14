@@ -1,80 +1,75 @@
 {
-	"arrowColors": [
-		"#03E2CA",
-		"#00FFFF",
-		"#FA8B05",
-		"#F9393F"
-	],
-	"camOffset": {
-		"x": -100,
-		"y": 0
-	},
-	"globalOffset": {
-		"x": 0,
-		"y": 0
-	},
-	"healthbarColor": "#00FF00",
-	"flipX": false,
-	"anims": [
-		{
-			"indices": null,
-			"x": 100,
-			"y": -50,
-			"anim": "FlameIdle00",
-			"loop": true,
-			"name": "idle",
-			"framerate": 24
-		},
-		{
-			"indices": null,
-			"x": 100,
-			"y": -50,
-			"anim": "FlameRIght00",
-			"loop": false,
-			"name": "singRIGHT",
-			"framerate": 24
-		},
-		{
-			"indices": null,
-			"x": 100,
-			"y": -50,
-			"anim": "FlameDown00",
-			"loop": false,
-			"name": "singDOWN",
-			"framerate": 24
-		},
-		{
-			"indices": null,
-			"x": 100,
-			"y": -50,
-			"anim": "FlameLeft00",
-			"loop": false,
-			"name": "singLEFT",
-			"framerate": 24
-		},
-		{
-			"indices": null,
-			"x": 140,
-			"y": -50,
-			"anim": "FlameUp00",
-			"loop": false,
-			"name": "singUP",
-			"framerate": 24
-		}
-	],
-	"danceSteps": [
-		"idle"
-	],
-	"antialiasing": true,
-	"healthIconSteps": [
-		[
-			20,
-			0
-		],
-		[
-			0,
-			1
-		]
-	],
-	"scale": 0.8
-}
+            "scale": 1,
+            "arrowColors": null,
+            "flipX": false,
+            "antialiasing": true,
+            "healthbarColor": "#FF2800",
+            "globalOffset": {
+                "x": 0,
+		        "y": 200
+            },
+            "camOffset": {
+		        "x": 100,
+		        "y": -240
+	        },
+            "danceSteps": [
+		        "idle"
+	        ],
+            "healthIconSteps": [
+		        [
+			        20,
+			        0
+		        ],
+		        [
+			        0,
+			        1
+		        ]
+	        ],
+            "anims": [
+
+            {
+                "indices": null,
+                "x": 73,
+                "y": 191,
+                "anim": "FlameDown",
+                "loop": false,
+                "name": "singDOWN",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 19,
+                "y": 201,
+                "anim": "FlameUp",
+                "loop": false,
+                "name": "singUP",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 17,
+                "y": 202,
+                "anim": "FlameIdle",
+                "loop": false,
+                "name": "idle",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 34,
+                "y": 230,
+                "anim": "FlameLeft",
+                "loop": false,
+                "name": "singRIGHT",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 166,
+                "y": 189,
+                "anim": "FlameRIght",
+                "loop": false,
+                "name": "singLEFT",
+                "framerate": 24
+
+                }]}

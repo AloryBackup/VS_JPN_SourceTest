@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="trel.png">
+<SubTexture name="trel idle0000" x="712" y="489" width="346" height="471" frameX="-63" frameY="-20" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel idle0001" x="372" y="489" width="340" height="478" frameX="-71" frameY="-14" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel down0000" x="1623" y="816" width="339" height="399" frameX="-74" frameY="-95" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel down0001" x="339" y="1422" width="372" height="378" frameX="-69" frameY="-116" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel bownmiss0000" x="0" y="1422" width="339" height="399" frameX="-74" frameY="-95" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel bownmiss0001" x="711" y="1422" width="372" height="378" frameX="-69" frameY="-116" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel left0000" x="0" y="974" width="372" height="448" frameX="-43" frameY="-45" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel left0001" x="1246" y="0" width="377" height="465" frameX="-38" frameY="-30" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel ieftmiss0000" x="372" y="974" width="372" height="448" frameX="-43" frameY="-45" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel ieftmiss0001" x="1246" y="465" width="377" height="465" frameX="-38" frameY="-30" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel right0000" x="744" y="974" width="438" height="420" frameX="-4" frameY="-73" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel right0001" x="1623" y="0" width="439" height="408" frameX="-15" frameY="-85" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel kightmiss0000" x="1182" y="974" width="438" height="420" frameX="-4" frameY="-73" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel kightmiss0001" x="1623" y="408" width="439" height="408" frameX="-15" frameY="-85" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel up0000" x="0" y="0" width="437" height="489" frameX="-13" frameY="-6" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel up0001" x="874" y="0" width="372" height="485" frameX="-64" frameY="-10" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel opmiss0000" x="437" y="0" width="437" height="489" frameX="-13" frameY="-6" frameWidth="455" frameHeight="497" />
+<SubTexture name="trel opmiss0001" x="0" y="489" width="372" height="485" frameX="-64" frameY="-10" frameWidth="455" frameHeight="497" />
+</TextureAtlas>

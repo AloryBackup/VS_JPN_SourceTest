@@ -1,0 +1,67 @@
+import("LoadingState");
+
+var char:Int = 0;
+var amogus = 'false';
+var sus = 'false';
+
+function update(elapsed:Float) {
+    var controls = FlxControls.justPressed;
+    var pressed = false;
+
+    if (pressed = controls.P)  {
+        if (amogus == 'true') {
+            amogus = 'false';
+        }
+        if (amogus == 'false') {
+            amogus = 'true';
+        }
+    }
+
+    if (pressed = controls.L)  {
+        if (sus == 'true') {
+            sus = 'false';
+        }
+        if (sus == 'false') {
+            sus = 'true';
+        }
+    }
+
+
+    if (amogus == 'true') {
+        if (char == 0) pressed = controls.P;
+        if (char == 1) pressed = controls.A;
+        if (char == 2) pressed = controls.S;
+        if (char == 3) pressed = controls.S;
+        if (char == 4) pressed = controls.W;
+        if (char == 5) pressed = controls.O;
+        if (pressed) {
+            char++;
+        } else {
+            if (controls.ANY) {
+                char = 0;
+            }
+        }
+        if (char >= 6) {
+            CoolUtil.loadSong("[mod]", "[song]", "[dificulty]");
+            LoadingState.loadAndSwitchState(new PlayState_());
+        }   
+    }
+
+    if (sus == 'true') {
+        if (char == 0) pressed = controls.P;
+        if (char == 1) pressed = controls.A;
+        if (char == 2) pressed = controls.S;
+        if (char == 3) pressed = controls.S;
+        if (pressed) {
+            char++;
+        } else {
+            if (controls.ANY) {
+                char = 0;
+            }
+        }
+        if (char >= 4) {
+            CoolUtil.loadSong("[mod]", "[song]", "[dificulty]");
+            LoadingState.loadAndSwitchState(new PlayState_());
+        }
+    }   
+}

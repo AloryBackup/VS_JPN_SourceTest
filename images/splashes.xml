@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Splash Forever Engine NEW.png">
+<!-- Created with Spritesheet and XML Generator for Friday Night Funkin' version 4.2.3 -->
+<!-- https://gamebanana.com/tools/7136 -->
+<SubTexture name="splash0000" x="184" y="206" width="172" height="177" frameX="-44" frameY="-42" frameWidth="250" frameHeight="250" />
+<SubTexture name="splash0001" x="0" y="206" width="184" height="202" frameX="-38" frameY="-32" frameWidth="250" frameHeight="250" />
+<SubTexture name="splash0002" x="362" y="0" width="186" height="204" frameX="-37" frameY="-30" frameWidth="250" frameHeight="250" />
+<SubTexture name="splash0003" x="0" y="0" width="182" height="206" frameX="-38" frameY="-31" frameWidth="250" frameHeight="250" />
+<SubTexture name="splash0004" x="182" y="0" width="180" height="205" frameX="-39" frameY="-30" frameWidth="250" frameHeight="250" />
+</TextureAtlas>

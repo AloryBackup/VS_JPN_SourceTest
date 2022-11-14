@@ -1,0 +1,1 @@
+        FlxG.switchState(new ModState("InfoStateHey", mod));

@@ -1,3 +1,5 @@
+import("LoadingState");
+
 function updatePost() {
 //Value 1 is X, 2 is Y.
     state.menuItems.members[0].offset.set(380, 0);
@@ -14,4 +16,10 @@ function updatePost() {
 
     state.menuItems.members[6].offset.set(-250, 60);
 
+}
+function create() {
+      state.optionShit.add('dvd', function() {
+          FlxG.switchState(new ModState("hey", mod));
+}, Paths.getSparrowAtlas('menuthings/dvdMenu'), 'dvd basic', 'dvd white');
+  
 }

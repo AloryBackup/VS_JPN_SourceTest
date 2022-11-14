@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "exbf",
 		"events": [
 			[
 				0,
@@ -14,7 +14,7 @@
 			]
 		],
 		"gfVersion": "gf",
-		"player2": "bf-pixel-opponent",
+		"player2": "psychonick",
 		"notes": [
 			{
 				"lengthInSteps": 16,

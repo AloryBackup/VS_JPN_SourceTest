@@ -1,5 +1,17 @@
 {
 	"songs": [
+	   {
+			"displayName": "Chill Tutorial",
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "gf",
+			"color": "#2A99FE",
+			"name": "TutorialJuly",
+			"bpm": 178
+		},
 		{
 			"difficulties": [
 				"Normal",
@@ -12,13 +24,13 @@
 			"bpm": 180
 		},
 		{
-			"displayName": "Yes, Sonic is a rhythym gane indeed, Ms. July",
+			"displayName": "(WIP!) Yes, Sonic is a rhythym gane indeed, Ms. July",
 			"difficulties": [
 				"Normal",
-				"Old"
+				"Easy"
 			],
 			"char": "july",
-			"name": "Sonic-Rhythm",
+			"name": "sonic-rhythm",
 			"color": "#212F67",
 			"bpm": 160
 		},
@@ -28,7 +40,7 @@
 				"Normal",
 				"Hard"
 			],
-			"displayName": "i dont know",
+			"displayName": "I don't know (Delta)",
 			"char": "ivan-main",
 			"bpm": 150,
 			"name": "Bopeebo",
@@ -40,7 +52,7 @@
 				"Normal",
 				"Hard"
 			],
-			"displayName": null,
+			"displayName": "(WIP) Inceptive",
 			"char": "nick",
 			"bpm": 132,
 			"name": "inceptive",
@@ -73,6 +85,42 @@
 		{
 			"difficulties": [
 				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "yami",
+			"bpm": 132,
+			"name": "Annoyance",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Break In",
+			"char": "trey",
+			"bpm": 132,
+			"name": "Break-In",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Undone Mistake",
+			"char": "trey",
+			"bpm": 132,
+			"name": "Undone",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
 				"Normal"
 			],
 			"displayName": "Dashless",
@@ -83,13 +131,13 @@
 		},
 		{
 			"difficulties": [
-				"Normal"
+"Normal"
 			],
-			"displayName": "Testing",
-			"char": "bf",
-			"bpm": 140,
-			"name": "test",
-			"color": "#FFA9FF"
+			"displayName": "(Almost Complete) Crusader",
+			"char": "Sonic",
+			"bpm": 150,
+			"name": "Meladiction",
+			"color": "#1A3956"
 		}
 	]
 }

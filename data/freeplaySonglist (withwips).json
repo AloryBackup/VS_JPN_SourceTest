@@ -121,7 +121,28 @@
 			"char": "psychonick",
 			"bpm": 140,
 			"name": "you-cant-run",
-			"color": "#FFA9FF"
+			"color": "#FFA9FF",
+		{},
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Crusader",
+			"char": "sonic",
+			"bpm": 150,
+			"name": "Meladiction",
+			"color": "#1A3956"
+		},
+		{
+			"displayName": "(Promenade) Friendly Rhythm",
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "July",
+			"color": "#9271FD",
+			"name": "Promenade",
+			"bpm": 128
 		}
 	]
 }

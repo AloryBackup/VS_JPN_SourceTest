@@ -1,0 +1,309 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": null,
+		"player1": "Trey",
+		"player2": "July",
+		"player3": null,
+		"events": [
+			[
+				33931.026,
+				[
+					[
+						"Add Camera Zoom",
+						"0.007",
+						"0.01"
+					]
+				]
+			],
+			[
+				34344.819,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37241.37,
+				[
+					[
+						"Add Camera Zoom",
+						"0.007",
+						"0.01"
+					]
+				]
+			],
+			[
+				37655.163,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52965.504,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53586.1935,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54206.883,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54413.7795,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54827.5725,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56275.848,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56896.5375,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57517.227,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57724.1235,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58137.9165,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58758.606,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59172.399,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59586.192,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60206.8815,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60827.571,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61034.4675,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61448.2605,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62896.536,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63517.2255,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64137.915,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105620.66325,
+				[
+					[
+						"Add Camera Zoom",
+						"0.599",
+						"0.03"
+					]
+				]
+			],
+			[
+				105724.1115,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Njuly"
+					]
+				]
+			],
+			[
+				105827.55975,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Ntrey"
+					]
+				]
+			],
+			[
+				139862.034,
+				[
+					[
+						"Add Camera Zoom",
+						"0.007",
+						"0.01"
+					]
+				]
+			],
+			[
+				140275.827,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 145.000036250009,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Starlight"
+	}
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nickside.png">
+<SubTexture name="tails0000" x="274" y="0" width="351" height="400" frameX="-32" frameY="-72" frameWidth="393" frameHeight="470" />
+<SubTexture name="tails0001" x="0" y="446" width="329" height="428" frameX="-35" frameY="-44" frameWidth="393" frameHeight="470" />
+<SubTexture name="tails0002" x="329" y="446" width="295" height="449" frameX="-45" frameY="-23" frameWidth="393" frameHeight="470" />
+<SubTexture name="tails0003" x="0" y="895" width="289" height="452" frameX="-43" frameY="-20" frameWidth="393" frameHeight="470" />
+<SubTexture name="tails0004" x="0" y="0" width="274" height="446" frameX="-45" frameY="-25" frameWidth="393" frameHeight="470" />
+</TextureAtlas>

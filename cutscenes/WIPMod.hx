@@ -1,30 +1,22 @@
+var disclaimer:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('disclaimer/nick'));
+
 function create() {
-    var mFolder = Paths_.modsPath;
-    
-    var path = Paths.video(ModWIP.mp4);
-    trace(path);
-    if (!Assets.exists(path)) {
-        trace("Video not found.");
-        startCountdown();
-        return;
+    disclaimer.screenCenter();
+    disclaimer.cameras = [PlayState.camHUD];
+	 disclaimer.scale.x = 0.5;
+    disclaimer.scale.y = 0.5;
+    PlayState.add(disclaimer);
+
+    new FlxTimer().start(1.9, function(tmr:FlxTimer)
+    {
+        FlxTween.tween(disclaimer, {alpha: 0}, 1, {startDelay: 7.5});
+
+    });
+}
+
+function onCountdown(countdown:Int) {
+    if (countdown == 3) {
+        Conductor.songPosition = 0;
     }
-
-    var wasWidescreen = PlayState.isWidescreen;
-    var videoSprite:FlxSprite = null;
-    
-    PlayState.isWidescreen = false;
-    PlayState.camHUD.bgColor = 0xFF000000;
-    videoSprite = MP4Video.playMP4(Assets.getPath(path),
-        function() {
-            PlayState.remove(videoSprite);
-            PlayState.isWidescreen = wasWidescreen;
-            PlayState.camHUD.bgColor = 0x00000000;
-            startCountdown();
-        },
-        // If midsong.
-        false, FlxG.width, FlxG.height);
-
-    videoSprite.cameras = [PlayState.camHUD];
-    videoSprite.scrollFactor.set();
-    PlayState.add(videoSprite);
+    return false;
 }

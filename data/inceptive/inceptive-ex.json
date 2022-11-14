@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf",
-		"player2": "bf-pixel-opponent",
+		"player1": "exbf",
+		"player2": "nick",
 		"notes": [
 			{
 				"lengthInSteps": 16,

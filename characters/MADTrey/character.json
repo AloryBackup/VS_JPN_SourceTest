@@ -1,0 +1,201 @@
+{
+            "scale": 2,
+            "arrowColors": null,
+            "flipX": false,
+            "antialiasing": false,
+            "healthbarColor": "#31B0D1",
+            "globalOffset": {
+                "x": 0,
+		        "y": 160
+            },
+            "camOffset": {
+		        "x": -240,
+		        "y": -290
+	        },
+            "danceSteps": [
+		        "idle"
+	        ],
+            "healthIconSteps": [
+		        [
+			        20,
+			        0
+		        ],
+		        [
+			        0,
+			        1
+		        ]
+	        ],
+            "anims": [
+
+            {
+                "indices": null,
+                "x": -25,
+                "y": 19,
+                "anim": "BF NOTE LEFT MISS",
+                "loop": false,
+                "name": "singLEFTmiss",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": -15,
+                "y": -19,
+                "anim": "BF NOTE DOWN MISS",
+                "loop": false,
+                "name": "singDOWNmiss",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": -36,
+                "y": 27,
+                "anim": "BF NOTE UP MISS",
+                "loop": false,
+                "name": "singUPmiss",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": -44,
+                "y": 22,
+                "anim": "BF NOTE RIGHT MISS",
+                "loop": false,
+                "name": "singRIGHTmiss",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": -3,
+                "y": 5,
+                "anim": "BF HEY",
+                "loop": false,
+                "name": "hey",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 15,
+                "y": 18,
+                "anim": "BF hit",
+                "loop": false,
+                "name": "hurt",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": -4,
+                "y": 0,
+                "anim": "BF idle shaking",
+                "loop": true,
+                "name": "scared",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 37,
+                "y": 11,
+                "anim": "BF dies",
+                "loop": false,
+                "name": "firstDeath",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 37,
+                "y": 5,
+                "anim": "BF Dead Loop",
+                "loop": true,
+                "name": "deathLoop",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 37,
+                "y": 69,
+                "anim": "BF Dead confirm",
+                "loop": false,
+                "name": "deathConfirm",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": -10,
+                "y": -16,
+                "anim": "boyfriend dodge",
+                "loop": false,
+                "name": "dodge",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 294,
+                "y": 267,
+                "anim": "boyfriend attack",
+                "loop": false,
+                "name": "attack",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": -40,
+                "y": -40,
+                "anim": "bf pre attack",
+                "loop": false,
+                "name": "pre-attack",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 5,
+                "y": -6,
+                "anim": "TreyLeft",
+                "loop": false,
+                "name": "singLEFT",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 20,
+                "y": 10,
+                "anim": "TreyDown",
+                "loop": false,
+                "name": "singDOWN",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": -29,
+                "y": 67,
+                "anim": "TreyUp",
+                "loop": false,
+                "name": "singUP",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": -78,
+                "y": 63,
+                "anim": "TreyRight",
+                "loop": false,
+                "name": "singRIGHT",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": -62,
+                "y": -20,
+                "anim": "TreyAnger",
+                "loop": false,
+                "name": "TreyAnger",
+                "framerate": 20
+
+                },{
+                "indices": null,
+                "x": -95,
+                "y": -34,
+                "anim": "ANGidle",
+                "loop": false,
+                "name": "idle",
+                "framerate": 24
+
+                }]}

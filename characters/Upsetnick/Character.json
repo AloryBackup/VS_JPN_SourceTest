@@ -31,7 +31,7 @@
 			"y": -49,
 			"anim": "Right",
 			"loop": false,
-			"name": "singRight",
+			"name": "singRIGHT",
 			"framerate": 24
 		},
 		{
@@ -40,7 +40,7 @@
 			"y": 65,
 			"anim": "Down",
 			"loop": false,
-			"name": "singDown",
+			"name": "singDOWN",
 			"framerate": 24
 		},
 		{
@@ -58,7 +58,7 @@
 			"y": -39,
 			"anim": "Left",
 			"loop": false,
-			"name": "singLeft",
+			"name": "singLEFT",
 			"framerate": 24
 		}
 	],

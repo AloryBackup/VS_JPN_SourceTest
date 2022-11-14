@@ -1,0 +1,39 @@
+{
+            "scale": 1,
+            "arrowColors": null,
+            "flipX": false,
+            "antialiasing": true,
+            "healthbarColor": "#00FFFF",
+            "globalOffset": {
+                "x": 0,
+		        "y": 120
+            },
+            "camOffset": {
+		        "x": 120,
+		        "y": 170
+	        },
+            "danceSteps": [
+		        "idle"
+	        ],
+            "healthIconSteps": [
+		        [
+			        20,
+			        0
+		        ],
+		        [
+			        0,
+			        1
+		        ]
+	        ],
+            "anims": [
+
+            {
+                "indices": null,
+                "x": 40,
+                "y": -63,
+                "anim": "tails",
+                "loop": false,
+                "name": "idle",
+                "framerate": 24
+
+                }]}

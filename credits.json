@@ -86,7 +86,7 @@
 		{
 			"name": "TreyBWN",
 			"role": "Made VS Trey, not included yet.",
-			"icon": "credits/nick",
+			"icon": "credits/trey",
 			"urls": [{
 					"name": "Twitter",
 					"url": "https://twitter.com/treybcwhynot?t=0cvMThXPO0yLGgyyDJu2tg&s=09"
@@ -105,7 +105,7 @@
 		{
 			"name": "Captain Kirb",
 			"role": "Original title screen script, go check her out, she seems cool.",
-			"icon": "credits/captainkrib",
+			"icon": "credits/krib",
 			"urls": [{
 					"name": "YouTube",
 					"url": "https://www.youtube.com/channel/UCLr5zAesggUSXlLd9J6vfjw"
@@ -144,10 +144,22 @@
 			}]
 		},
 		{
-			"name": "SIG7's Misc",
-			"role": "Join my Discord Server, or follow my Twitter! (I couldn't put myself in credits.)",
+			"name": "SIG7 (Ivan)",
+			"role": "Ever exist? Made the remake of both mods. Also is kind of a simp for Kirby, I think.",
 			"icon": "credits/SIG7",
 			"urls": [{
+					"name": "Pixilart",
+					"url": "https://pixilart.com/SIG7"
+				},
+				{
+					"name": "Pixilart (Alt 1/2)",
+					"url": "https://pxiilart.com/SIG7Ivan"
+				},
+				{
+					"name": "Pixilart (Alt 2/2)",
+					"url": "https://pixilart.com/SIG7Woops"
+				},
+				{
 					"name": "Discord Server",
 					"url": "https://discord.gg/atF78YbnQ2"
 				},
@@ -160,6 +172,60 @@
 					"url": "https://twitter.com/FNFElectro"
 				}
 			]
+		},
+		{
+			"name": "Borrowed Assets Down Below:",
+			"role": "Listing some assets I borrowed from mods.",
+			"icon": "credits/empty",
+			"urls": [{
+				"name": "No Link",
+				"url": "https://www.youtube.com/channel/UCOrdhReVkD78kJDvtUVBaYQ"
+			}]
+		},
+		{
+			"name": "FNF' BnB Team",
+			"role": "Don't know who made the assets I borrowed, but I borrowed some.",
+			"icon": "credits/empty",
+			"urls": [{
+				"name": "Source Code (Please spread no drama.)",
+				"url": "https://github.com/ash237/vs-Bob-and-Bosip"
+			}]
+		},
+		{
+			"name": "FNF' Entity",
+			"role": "I also borrowed assets from here..",
+			"icon": "credits/empty",
+			"urls": [{
+				"name": "GameBanana",
+				"url": "https://gamebanana.com/mods/284934"
+			}]
+		},
+		{
+			"name": "K-VRC/.",
+			"role": "I forgot who ported the Forever Engine splashes..",
+			"icon": "credits/empty",
+			"urls": [{
+				"name": "Empty Link.",
+				"url": "explorer"
+			}]
+		},
+		{
+			"name": "NyxTheShield",
+			"role": "MIDI2FNF Creator (Used for the Crusader chart).",
+			"icon": "credits/empty",
+			"urls": [{
+				"name": "Source Code (Please spread no drama.)",
+				"url": "https://github.com/NyxTheShield/MIDI2FNF/releases/tag/Main"
+			}]
+		},,
+		{
+			"name": "Thomis13t",
+			"role": "Created the midi that I used for the chart (converted with midi2fnf, adjusted appropriately).",
+			"icon": "credits/empty",
+			"urls": [{
+				"name": "YouTube Video",
+				"url": "https://www.youtube.com/watch?v=h5MDfItSK-s&ab_channel=Tomis13t"
+			}]
 		}
 	]
 }

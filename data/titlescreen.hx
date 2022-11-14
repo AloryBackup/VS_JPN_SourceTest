@@ -4,7 +4,7 @@
 var curtains:FlxSprite;
 var bg:FlxSprite;
 var gf:FlxSprite;
-
+var seen = 'false';
 function create(){
     bg = new FlxSprite(0, 0).loadGraphic(Paths.image('titlescreen/stageback'));
     bg.screenCenter();
@@ -46,7 +46,8 @@ function create(){
 FlxTween.tween(titleblack, {y: titleblack.y + 50}, 0.6, {ease: FlxEase.quadInOut, type: 4});
 FlxTween.tween(title, {y: title.y + 50}, 0.6, {ease: FlxEase.quadInOut, type: 4, startDelay: 0.15});
 
-        FlxG.sound.playMusic('/music/title.mp3', 0, false);
+
+        FlxG.sound.playMusic(Paths.music('title'),0,false);
 
         FlxG.sound.music.fadeIn(4, 0, 0.7);
     }
@@ -63,8 +64,9 @@ FlxTween.tween(title, {y: title.y + 50}, 0.6, {ease: FlxEase.quadInOut, type: 4,
             {
                 FlxG.switchState(new PlayState());
             });
-            FlxG.sound.play('/music/titleShoot.mp3', 0.7);
-				
+            FlxG.sound.play(Paths.sound('titleShoot'), 0.7);
+				FlxG.switchState(new ModState("InfoStateHey", mod));
+				//well neither one of these lines work
         }
     }
 

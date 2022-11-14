@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TrII.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TrIIdown0000" x="0" y="0" width="1148" height="1887" frameX="-119" frameY="0" frameWidth="1267" frameHeight="1887"/>
+	<SubTexture name="TrIIdown0001" x="1148" y="0" width="1120" height="1272" frameX="0" frameY="-269" frameWidth="1267" frameHeight="1887"/>
+	<SubTexture name="TrIIidle0000" x="2268" y="0" width="827" height="944" frameX="0" frameY="-344" frameWidth="827" frameHeight="1425"/>
+	<SubTexture name="TrIIidle0001" x="3095" y="0" width="827" height="989" frameX="0" frameY="-318" frameWidth="827" frameHeight="1425"/>
+	<SubTexture name="TrIIidle0002" x="0" y="1887" width="827" height="1398" frameX="0" frameY="-5" frameWidth="827" frameHeight="1425"/>
+	<SubTexture name="TrIIidle0003" x="827" y="1887" width="827" height="1236" frameX="0" frameY="-189" frameWidth="827" frameHeight="1425"/>
+	<SubTexture name="TrIIidle0004" x="1654" y="1887" width="827" height="1405" frameX="0" frameY="0" frameWidth="827" frameHeight="1425"/>
+	<SubTexture name="TrIIidle0005" x="2268" y="0" width="827" height="944" frameX="0" frameY="-344" frameWidth="827" frameHeight="1425"/>
+	<SubTexture name="TrIIleft0000" x="2481" y="1887" width="1305" height="1067" frameX="-235" frameY="0" frameWidth="1540" frameHeight="1117"/>
+	<SubTexture name="TrIIleft0001" x="0" y="3292" width="1132" height="1108" frameX="0" frameY="-9" frameWidth="1540" frameHeight="1117"/>
+	<SubTexture name="TrIIright0000" x="1132" y="3292" width="1260" height="1017" frameX="-84" frameY="-101" frameWidth="1344" frameHeight="1180"/>
+	<SubTexture name="TrIIright0001" x="2392" y="3292" width="1193" height="1180" frameX="0" frameY="0" frameWidth="1344" frameHeight="1180"/>
+	<SubTexture name="TrIIup0000" x="0" y="4472" width="861" height="1727" frameX="-91" frameY="0" frameWidth="952" frameHeight="1727"/>
+	<SubTexture name="TrIIup0001" x="861" y="4472" width="893" height="1353" frameX="0" frameY="-277" frameWidth="952" frameHeight="1727"/>
+</TextureAtlas>

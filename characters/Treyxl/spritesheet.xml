@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="treyxl.png">
+<SubTexture name="treyxl idle0000" x="64" y="0" width="74" height="109" frameX="-32" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl idle0001" x="138" y="0" width="70" height="109" frameX="-36" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl idle0002" x="208" y="0" width="66" height="109" frameX="-38" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl idle0003" x="0" y="109" width="64" height="109" frameX="-38" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl idle0004" x="0" y="0" width="64" height="109" frameX="-38" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl down0000" x="64" y="109" width="67" height="109" frameX="-38" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl down0001" x="131" y="109" width="82" height="109" frameX="-23" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl down0002" x="213" y="109" width="73" height="106" frameX="-33" frameY="-14" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl left0000" x="0" y="218" width="69" height="109" frameX="-33" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl left0001" x="69" y="218" width="89" height="108" frameX="-17" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl left0002" x="158" y="218" width="83" height="106" frameX="-17" frameY="-13" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl right0000" x="241" y="218" width="64" height="110" frameX="-38" frameY="-10" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl right0001" x="0" y="328" width="82" height="107" frameX="-30" frameY="-10" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl right0002" x="82" y="328" width="81" height="106" frameX="-35" frameY="-10" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl up0000" x="163" y="328" width="78" height="109" frameX="-38" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl up0001" x="241" y="328" width="101" height="109" frameX="-13" frameY="-11" frameWidth="128" frameHeight="128" />
+<SubTexture name="treyxl up0002" x="0" y="437" width="98" height="107" frameX="-14" frameY="-12" frameWidth="128" frameHeight="128" />
+</TextureAtlas>

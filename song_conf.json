@@ -10,15 +10,6 @@
 			"name": "slapper"
 		},
 		{
-			"scripts": [
-				"stages/room"
-			],
-			"difficulties": null,
-			"end_cutscene": null,
-			"cutscene": null,
-			"name": "sonic-rhythm"
-		},
-		{
 			"scripts": [],
 			"difficulties": [],
 			"end_cutscene": null,
@@ -38,13 +29,6 @@
 			"end_cutscene": null,
 			"cutscene": null,
 			"name": "inceptive-ex"
-		},
-		{
-			"scripts": [],
-			"difficulties": [],
-			"end_cutscene": null,
-			"cutscene": null,
-			"name": "nick-a-pocalypse"
 		},
 		{
 			"scripts": [],
@@ -84,6 +68,7 @@
 		},
 		{
 			"scripts": [
+				"cutscenes/WIPMod",
 				"stages/nickroom"
 			],
 			"difficulties": null,
@@ -99,14 +84,137 @@
 			"name": "test"
 		},
 		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "tutorial"
+		},
+		{
 			"scripts": [
-				"stages/nickroom",
-				"ui/DialogueBox"
+				"cutscenes/WIPMod",
+				"stages/nickroom"
 			],
 			"difficulties": null,
 			"end_cutscene": null,
 			"cutscene": null,
 			"name": "inceptive"
+		},
+		{
+			"scripts": [
+				"cutscenes/WIPMod"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "nick-a-pocalypse"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "bopeeboeflip"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "annoyance"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "break-in"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "disarray"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "nightfall"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "starlight"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "trinity"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "undone"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "meladiction"
+		},
+		{
+			"scripts": [
+				"stages/Hall"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "promenade"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "no"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "xmeladictionunwork"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "tutorialjuly"
+		},
+		{
+			"end_cutscene": null,
+			"cutscene": null,
+			"difficulties": [],
+			"scripts": [],
+			"name": "isotope"
+		},
+		{
+			"end_cutscene": null,
+			"cutscene": null,
+			"difficulties": [],
+			"scripts": [],
+			"name": "sonic-rhythm"
 		}
 	]
 }

@@ -1,0 +1,80 @@
+{
+	"arrowColors": [
+		"#90A4F3",
+		"#A5B1F8",
+		"#F6FA05",
+		"#0F1233"
+	],
+	"camOffset": {
+		"x": -100,
+		"y": 0
+	},
+	"globalOffset": {
+		"x": 566,
+		"y": 40
+	},
+	"healthbarColor": "#7578AD",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Kirby Idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Kirby Right",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 6
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Kirby Down",
+			"loop": true,
+			"name": "singDOWN",
+			"framerate": 6
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Kirby Up",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Kirby Left",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 6
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": false,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

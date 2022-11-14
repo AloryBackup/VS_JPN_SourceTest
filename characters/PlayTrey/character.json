@@ -1,0 +1,111 @@
+{
+            "scale": 1,
+            "arrowColors": null,
+            "flipX": false,
+            "antialiasing": true,
+            "healthbarColor": "#FF3F3F",
+            "globalOffset": {
+                "x": 0,
+		        "y": 0
+            },
+            "camOffset": {
+		        "x": 0,
+		        "y": 0
+	        },
+            "danceSteps": [
+		        "idle"
+	        ],
+            "healthIconSteps": [
+		        [
+			        20,
+			        0
+		        ],
+		        [
+			        0,
+			        1
+		        ]
+	        ],
+            "anims": [
+
+            {
+                "indices": null,
+                "x": 0,
+                "y": 0,
+                "anim": "trey idle",
+                "loop": false,
+                "name": "idle",
+                "framerate": 12
+
+                },{
+                "indices": null,
+                "x": 8,
+                "y": 1,
+                "anim": "trey right",
+                "loop": false,
+                "name": "singLEFT",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 1,
+                "y": 5,
+                "anim": "trey down",
+                "loop": false,
+                "name": "singDOWN",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 0,
+                "y": 1,
+                "anim": "trey up",
+                "loop": false,
+                "name": "singUP",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 101,
+                "y": 3,
+                "anim": "trey left",
+                "loop": false,
+                "name": "singRIGHT",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 19,
+                "y": 0,
+                "anim": "trey aw",
+                "loop": false,
+                "name": "singUPmiss",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 1,
+                "y": 0,
+                "anim": "trey ow",
+                "loop": false,
+                "name": "singDOWNmiss",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 6,
+                "y": 0,
+                "anim": "trey shit",
+                "loop": false,
+                "name": "singLEFTmiss",
+                "framerate": 24
+
+                },{
+                "indices": null,
+                "x": 0,
+                "y": 0,
+                "anim": "trey sad",
+                "loop": false,
+                "name": "singRIGHTmiss",
+                "framerate": 24
+
+                }]}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SuperTrey.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="superdown0000" x="0" y="0" width="798" height="1005"/>
+	<SubTexture name="superdown0001" x="798" y="0" width="766" height="983" frameX="-24" frameY="-15" frameWidth="798" frameHeight="1005"/>
+	<SubTexture name="superidle0000" x="1564" y="0" width="710" height="938" frameX="-68" frameY="-40" frameWidth="829" frameHeight="1012"/>
+	<SubTexture name="superidle0001" x="2274" y="0" width="765" height="972" frameX="-33" frameY="-23" frameWidth="829" frameHeight="1012"/>
+	<SubTexture name="superidle0002" x="3039" y="0" width="829" height="1012"/>
+	<SubTexture name="superidle0003" x="0" y="1012" width="829" height="1012"/>
+	<SubTexture name="superidle0004" x="829" y="1012" width="770" height="972" frameX="-33" frameY="-23" frameWidth="829" frameHeight="1012"/>
+	<SubTexture name="superidle0005" x="1599" y="1012" width="710" height="938" frameX="-68" frameY="-40" frameWidth="829" frameHeight="1012"/>
+	<SubTexture name="superleft0000" x="2309" y="1012" width="806" height="1009"/>
+	<SubTexture name="superleft0001" x="3115" y="1012" width="738" height="965" frameX="-33" frameY="-14" frameWidth="806" frameHeight="1009"/>
+	<SubTexture name="superright0000" x="0" y="2024" width="658" height="909" frameX="-33" frameY="-62" frameWidth="731" frameHeight="971"/>
+	<SubTexture name="superright0001" x="658" y="2024" width="731" height="961" frameX="0" frameY="0" frameWidth="731" frameHeight="971"/>
+	<SubTexture name="superup0000" x="1389" y="2024" width="658" height="909" frameX="0" frameY="-47" frameWidth="670" frameHeight="956"/>
+	<SubTexture name="superup0001" x="2047" y="2024" width="666" height="915" frameX="-4" frameY="0" frameWidth="670" frameHeight="956"/>
+</TextureAtlas>

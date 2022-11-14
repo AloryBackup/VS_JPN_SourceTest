@@ -1,0 +1,111 @@
+{
+            "scale": 5,
+            "arrowColors": null,
+            "flipX": false,
+            "antialiasing": false,
+            "healthbarColor": "#A357AB",
+            "globalOffset": {
+                "x": 0,
+		        "y": 250
+            },
+            "camOffset": {
+		        "x": 0,
+		        "y": 110
+	        },
+            "danceSteps": [
+		        "idle"
+	        ],
+            "healthIconSteps": [
+		        [
+			        20,
+			        0
+		        ],
+		        [
+			        0,
+			        1
+		        ]
+	        ],
+            "anims": [
+
+            {
+                "indices": null,
+                "x": -160,
+                "y": -130,
+                "anim": "egg idle",
+                "loop": true,
+                "name": "idle",
+                "framerate": 12
+
+                },{
+                "indices": null,
+                "x": -160,
+                "y": -130,
+                "anim": "egg down",
+                "loop": false,
+                "name": "singDOWN",
+                "framerate": 12
+
+                },{
+                "indices": null,
+                "x": -160,
+                "y": -130,
+                "anim": "egg left",
+                "loop": false,
+                "name": "singLEFT",
+                "framerate": 12
+
+                },{
+                "indices": null,
+                "x": -160,
+                "y": -130,
+                "anim": "egg up",
+                "loop": false,
+                "name": "singUP",
+                "framerate": 12
+
+                },{
+                "indices": null,
+                "x": -160,
+                "y": -130,
+                "anim": "egg right",
+                "loop": false,
+                "name": "singRIGHT",
+                "framerate": 12
+
+                },{
+                "indices": [3,4,5],
+                "x": -160,
+                "y": -130,
+                "anim": "egg right",
+                "loop": true,
+                "name": "singRIGHT-loop",
+                "framerate": 12
+
+                },{
+                "indices": [3,4,5],
+                "x": -160,
+                "y": -130,
+                "anim": "egg left",
+                "loop": true,
+                "name": "singLEFT-loop",
+                "framerate": 12
+
+                },{
+                "indices": [3,4,5],
+                "x": -160,
+                "y": -130,
+                "anim": "egg down",
+                "loop": true,
+                "name": "singDOWN-loop",
+                "framerate": 12
+
+                },{
+                "indices": [3,4,5],
+                "x": -160,
+                "y": -130,
+                "anim": "egg up",
+                "loop": true,
+                "name": "singUP-loop",
+                "framerate": 12
+
+                }]}

@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-160,
+				-130
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "egg idle"
+		},
+		{
+			"offsets": [
+				-160,
+				-130
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "egg down"
+		},
+		{
+			"offsets": [
+				-160,
+				-130
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "egg left"
+		},
+		{
+			"offsets": [
+				-160,
+				-130
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "egg up"
+		},
+		{
+			"offsets": [
+				-160,
+				-130
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "egg right"
+		},
+		{
+			"offsets": [
+				-160,
+				-130
+			],
+			"indices": [
+				3,
+				4,
+				5
+			],
+			"fps": 12,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "egg right"
+		},
+		{
+			"offsets": [
+				-160,
+				-130
+			],
+			"indices": [
+				3,
+				4,
+				5
+			],
+			"fps": 12,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "egg left"
+		},
+		{
+			"offsets": [
+				-160,
+				-130
+			],
+			"indices": [
+				3,
+				4,
+				5
+			],
+			"fps": 12,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "egg down"
+		},
+		{
+			"offsets": [
+				-160,
+				-130
+			],
+			"indices": [
+				3,
+				4,
+				5
+			],
+			"fps": 12,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "egg up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/egg",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "guy",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		87,
+		171
+	],
+	"camera_position": [
+		0,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 5
+}

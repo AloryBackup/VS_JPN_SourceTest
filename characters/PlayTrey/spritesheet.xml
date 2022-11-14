@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PlayTrey.png">
+<SubTexture name="trey idle0000" x="0" y="0" width="463" height="626" frameX="-64" frameY="-137" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey idle0001" x="463" y="0" width="434" height="637" frameX="-82" frameY="-126" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey idle0002" x="897" y="0" width="420" height="655" frameX="-95" frameY="-107" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey idle0003" x="1317" y="0" width="420" height="667" frameX="-95" frameY="-95" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey idle0004" x="0" y="667" width="420" height="675" frameX="-95" frameY="-87" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey right0000" x="420" y="667" width="552" height="675" frameX="-36" frameY="-87" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey right0001" x="972" y="667" width="563" height="672" frameX="-50" frameY="-91" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey up0000" x="1535" y="667" width="420" height="673" frameX="-95" frameY="-89" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey up0001" x="0" y="1342" width="421" height="695" frameX="-93" frameY="-68" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey left0000" x="421" y="1342" width="624" height="672" frameX="-103" frameY="-90" frameWidth="825" frameHeight="779" />
+<SubTexture name="trey left0001" x="1045" y="1342" width="661" height="669" frameX="-41" frameY="-94" frameWidth="825" frameHeight="779" />
+<SubTexture name="trey down0000" x="1706" y="1342" width="421" height="630" frameX="-95" frameY="-133" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey down0001" x="0" y="2037" width="422" height="602" frameX="-95" frameY="-161" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey shit0000" x="422" y="2037" width="552" height="678" frameX="-60" frameY="-90" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey ow0000" x="974" y="2037" width="457" height="533" frameX="-116" frameY="-227" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey aw0000" x="1431" y="2037" width="548" height="664" frameX="-12" frameY="-102" frameWidth="625" frameHeight="779" />
+<SubTexture name="trey sad0000" x="0" y="2715" width="423" height="642" frameX="-87" frameY="-123" frameWidth="625" frameHeight="779" />
+</TextureAtlas>

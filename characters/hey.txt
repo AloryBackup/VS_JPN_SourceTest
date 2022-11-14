@@ -1,0 +1,10 @@
+If you are reading this, here's some things to know.
+A character's icons is in the same folder as the spritesheet, xml, character.hx file, character.json file (optional), etc.
+If should be set up like this:
+character/
+spritesheet.png and .xml
+icon
+character.hx
+character.json (if done normally)
+
+"treycharsicons.psd" is the name of the file I used to make some of the icons for the characters in the VS Trey port who didn't have any (the only one with an icon was normal trey)

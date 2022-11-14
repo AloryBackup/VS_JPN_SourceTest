@@ -1,0 +1,153 @@
+{
+	"songs": [
+	   {
+			"displayName": "Chill Tutorial",
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "gf",
+			"color": "#2A99FE",
+			"name": "TutorialJuly",
+			"bpm": 178
+		},
+		{
+			"difficulties": [
+				"Normal",
+				"Old"
+			],
+			"displayName": null,
+			"char": "july",
+			"name": "Slapper",
+			"color": "#9A0988",
+			"bpm": 180
+		},
+		{
+			"displayName": "(WIP!) Yes, Sonic is a rhythym gane indeed, Ms. July",
+			"difficulties": [
+				"Normal",
+				"Easy"
+			],
+			"char": "july",
+			"name": "sonic-rhythm",
+			"color": "#212F67",
+			"bpm": 160
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "I don't know (Delta)",
+			"char": "ivan-main",
+			"bpm": 150,
+			"name": "Bopeebo",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "(WIP) Inceptive",
+			"char": "nick",
+			"bpm": 132,
+			"name": "inceptive",
+			"color": "#F15B5B"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "nick",
+			"bpm": 132,
+			"name": "bouncy",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "(WIP!) Bit Fight",
+			"char": "psychonick",
+			"bpm": 160,
+			"name": "bit-fight",
+			"color": "#AD43AD"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "yami",
+			"bpm": 132,
+			"name": "Annoyance",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Break In",
+			"char": "trey",
+			"bpm": 132,
+			"name": "Break-In",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Undone Mistake",
+			"char": "trey",
+			"bpm": 132,
+			"name": "Undone",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal"
+			],
+			"displayName": "Dashless",
+			"char": "psychonick",
+			"bpm": 140,
+			"name": "you-cant-run",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+"Normal"
+			],
+			"displayName": "(Almost Complete) Crusader",
+			"char": "Sonic",
+			"bpm": 150,
+			"name": "Meladiction",
+			"color": "#1A3956"
+		},
+		{
+			"bpm": 150,
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "(WIP) Isotope but Captain Kirby sings it,
+			"char": "IsoKirb",
+			"name": "Isotope",
+			"color": "#850000"
+		}
+	]
+}
